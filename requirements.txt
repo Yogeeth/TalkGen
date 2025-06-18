@@ -1,0 +1,6 @@
+sounddevice
+soundfile
+whisper
+google-generativeai
+gtts
+playsound
